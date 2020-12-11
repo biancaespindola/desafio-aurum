@@ -30,6 +30,12 @@ var palavraVezes = palavra.repeat(3); //metodo interessante para repetir string
 
 console.log('multiplicando palavra ' + palavraVezes);
 
+//teste com expressões regulares
+
+// var regexp = new RegExp(/aa/i);
+// var resultado = phrase.regexp.exec(str);
+// console.log('resultado usando expressões regulares: ' + resultado);
+
 // for (var i = 0; i < phrase.length; i++) {
 //   var proxLetra = phrase[i + 1];
 //   var primeiroIndice = 0;
